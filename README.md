@@ -50,3 +50,7 @@ Secara keseluruhan, alur program ini dirancang untuk menciptakan sistem yang efi
 
 
 ### Java
+![image](https://github.com/user-attachments/assets/5af10699-40e0-4faa-9a10-506ad09f14f2)
+![image](https://github.com/user-attachments/assets/0f91e9d9-fa15-4737-84a0-ce9262d78a84)
+
+
